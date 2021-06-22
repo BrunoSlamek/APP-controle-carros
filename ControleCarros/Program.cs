@@ -91,8 +91,7 @@ namespace ControleCarros
             Console.Write("Digite o tipo de combustivel: ");
 			string entradaCombustivel = Console.ReadLine();
 
-			Carro atualizaCarro = new Carro(id: indiceCarro,
-										genero: (Genero)entradaGenero,
+			Carro atualizaCarro = new Carro(id: indiceCarro, genero: (Genero)entradaGenero,
 										marca: entradaMarca,
                                         modelo: entradaModelo,
                                         cor: entradaCor,
@@ -147,8 +146,7 @@ namespace ControleCarros
             Console.Write("Digite o tipo de combustivel: ");
 			string entradaCombustivel = Console.ReadLine();
 
-			Carro novoCarro = new Carro(id: repositorio.ProximoId(),
-										genero: (Genero)entradaGenero,
+			Carro novoCarro = new Carro(id: repositorio.ProximoId(), genero: (Genero)entradaGenero,
 										marca: entradaMarca,
                                         modelo: entradaModelo,
                                         cor: entradaCor,
