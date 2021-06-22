@@ -1,0 +1,16 @@
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.exe
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.deps.json
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.runtimeconfig.json
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.dll
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ref\ControleCarros.dll
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\bin\Debug\net5.0\ControleCarros.pdb
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.AssemblyInfo.cs
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.dll
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ref\ControleCarros.dll
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.pdb
+C:\Users\bruno\Desktop\app1\APP-controle-carros\ControleCarros\obj\Debug\net5.0\ControleCarros.genruntimeconfig.cache
